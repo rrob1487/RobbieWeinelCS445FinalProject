@@ -1,0 +1,260 @@
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.8010, acc = 6.22
+Iteration 2, cost = 2.7956, acc = 6.22
+Iteration 3, cost = 2.7955, acc = 6.22
+Iteration 4, cost = 2.7955, acc = 6.22
+Iteration 5, cost = 2.7955, acc = 6.22
+Final Run Of Testing Data: 6.22
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7964, acc = 7.18
+Iteration 2, cost = 2.7965, acc = 7.18
+Iteration 3, cost = 2.7965, acc = 7.18
+Iteration 4, cost = 2.7964, acc = 7.18
+Iteration 5, cost = 2.7964, acc = 7.18
+Final Run Of Testing Data: 7.180000000000001
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7961, acc = 6.12
+Iteration 2, cost = 2.7951, acc = 6.12
+Iteration 3, cost = 2.7951, acc = 6.12
+Iteration 4, cost = 2.7951, acc = 6.12
+Iteration 5, cost = 2.7951, acc = 6.12
+Final Run Of Testing Data: 6.12
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7954, acc = 6.52
+Iteration 2, cost = 2.7947, acc = 6.52
+Iteration 3, cost = 2.7947, acc = 6.52
+Iteration 4, cost = 2.7947, acc = 6.52
+Iteration 5, cost = 2.7947, acc = 6.52
+Final Run Of Testing Data: 6.52
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7961, acc = 6.30
+Iteration 2, cost = 2.7952, acc = 6.30
+Iteration 3, cost = 2.7952, acc = 6.30
+Iteration 4, cost = 2.7952, acc = 6.30
+Iteration 5, cost = 2.7952, acc = 6.30
+Final Run Of Testing Data: 6.3
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7954, acc = 6.42
+Iteration 2, cost = 2.7953, acc = 6.42
+Iteration 3, cost = 2.7953, acc = 6.42
+Iteration 4, cost = 2.7953, acc = 6.42
+Iteration 5, cost = 2.7953, acc = 6.42
+Final Run Of Testing Data: 6.419999999999999
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7975, acc = 5.92
+Iteration 2, cost = 2.7960, acc = 5.92
+Iteration 3, cost = 2.7960, acc = 5.92
+Iteration 4, cost = 2.7960, acc = 5.92
+Iteration 5, cost = 2.7960, acc = 5.92
+Final Run Of Testing Data: 5.92
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7946, acc = 6.34
+Iteration 2, cost = 2.7940, acc = 6.34
+Iteration 3, cost = 2.7940, acc = 6.34
+Iteration 4, cost = 2.7940, acc = 6.34
+Iteration 5, cost = 2.7940, acc = 6.34
+Final Run Of Testing Data: 6.34
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7947, acc = 6.06
+Iteration 2, cost = 2.7938, acc = 6.10
+Iteration 3, cost = 2.7938, acc = 6.10
+Iteration 4, cost = 2.7938, acc = 6.10
+Iteration 5, cost = 2.7938, acc = 6.10
+Final Run Of Testing Data: 6.1
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+0.0 percent complete
+10.0 percent complete
+20.0 percent complete
+30.0 percent complete
+40.0 percent complete
+50.0 percent complete
+60.0 percent complete
+70.0 percent complete
+80.0 percent complete
+90.0 percent complete
+Iteration 1, cost = 2.7962, acc = 6.30
+Iteration 2, cost = 2.7964, acc = 6.30
+Iteration 3, cost = 2.7964, acc = 6.30
+Iteration 4, cost = 2.7964, acc = 6.30
+Iteration 5, cost = 2.7964, acc = 6.30
+Final Run Of Testing Data: 6.3

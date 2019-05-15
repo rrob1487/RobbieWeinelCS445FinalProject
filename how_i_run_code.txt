@@ -1,0 +1,1 @@
+nice -n 15 python expshare.py 100000 | tee 0_char.txt
